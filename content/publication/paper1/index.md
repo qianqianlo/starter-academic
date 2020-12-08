@@ -1,7 +1,7 @@
 ---
 title: "A Few Shot Adaptation of Visual Navigation Skills to New Observations using Meta-Learning"
 authors:
-- *admin*
+- admin
 - Maks Sorokin
 - Sehoon Ha
 # date: "2013-07-01T00:00:00Z"
@@ -27,8 +27,8 @@ abstract: Target-driven visual navigation is a challenging problem that requires
 # Summary. An optional shortened abstract.
 summary: We show how vision-based navigation agents can be trained to adapt to new sensor configurations with only a few shots. Rapid adaptation is achieved by introducing a bottleneck between perception and inference networks, and through the perception component's meta-adaptation. 
 
-tags:
-- Source Themes
+# tags:
+# - Source Themes
 featured: true
 
 # links:
@@ -41,13 +41,13 @@ featured: true
 # url_project: ''
 # url_slides: ''
 # url_source: '#'
-url_arXiv: https://arxiv.org/abs/2011.03609
+url_arxiv: https://arxiv.org/abs/2011.03609
 url_video: https://www.youtube.com/watch?v=3YklCAeBEZY
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
   preview_only: false
 
@@ -67,12 +67,4 @@ projects:
 slides: example
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
