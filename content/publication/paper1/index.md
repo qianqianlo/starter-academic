@@ -5,7 +5,7 @@ authors:
 - Maks Sorokin
 - Sehoon Ha
 # date: "2013-07-01T00:00:00Z"
-date: ""
+# date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -31,9 +31,9 @@ summary: We show how vision-based navigation agents can be trained to adapt to n
 # - Source Themes
 featured: true
 
-# links:
-# - name: Custom Link
-#  url: http://example.org
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2011.03609
 # url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 # url_code: '#'
 # url_dataset: '#'
@@ -41,7 +41,6 @@ featured: true
 # url_project: ''
 # url_slides: ''
 # url_source: '#'
-url_arxiv: https://arxiv.org/abs/2011.03609
 url_video: https://www.youtube.com/watch?v=3YklCAeBEZY
 
 # Featured image
