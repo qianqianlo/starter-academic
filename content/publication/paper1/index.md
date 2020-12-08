@@ -28,7 +28,7 @@ abstract: Target-driven visual navigation is a challenging problem that requires
 summary: We show how vision-based navigation agents can be trained to adapt to new sensor configurations with only a few shots. Rapid adaptation is achieved by introducing a bottleneck between perception and inference networks, and through the perception component's meta-adaptation. 
 
 tags:
- - Source Themes
+- Source Themes
 featured: true
 
 # links:
