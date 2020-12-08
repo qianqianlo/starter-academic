@@ -1,7 +1,7 @@
 ---
 title: "A Few Shot Adaptation of Visual Navigation Skills to New Observations using Meta-Learning"
 authors:
-- **admin**
+- admin
 - Maks Sorokin
 - Sehoon Ha
 # date: "2013-07-01T00:00:00Z"
