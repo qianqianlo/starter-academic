@@ -40,16 +40,19 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: https://luoqian@gatech.edu #'/#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkdin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
+  link: https://www.linkedin.com/in/qian-luo-a17116192/
+- icon: cv
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://twitter.com/GeorgeCushen
+# - icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,7 +72,6 @@ user_groups:
 - Visitors
 ---
 
-Hi! I’m currently a first-year Electrical and Computer Engineering master student at Georgia Institute of Technology.
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! I’m a second-year Electrical and Computer Engineering master student at Georgia Institute of Technology. I'm advised by [Prof. Sehoon Ha](https://www.cc.gatech.edu/~sha9/), working on Embodied Visual Navigation based on Deep Reinforcemt Learning and Meta Learning. I'm also working closely with [Prof. Woon-Hong Yeo](https://www.me.gatech.edu/faculty/yeo), sloving biosphysical signal classification problem using machine learning strategies. Prior coming to Georgia Tech, I received my B.Eng from Huazhong University of Science and Technology in China, where I spent a great time working with [Prof. Hai-Tao Zhang](https://scholar.google.com/citations?user=y089Rj8AAAAJ&hl=en).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research interest lies in Computer Vision, Deep Reinforcement Learning, and Meta Learning, focusing on the applications in robotics.
