@@ -46,7 +46,7 @@ social:
   link: https://www.linkedin.com/in/qian-luo-a17116192/
 - icon: cv
   icon_pack: ai
-  link: https://twitter.com/GeorgeCushen
+  link: files/cv.pdf
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
