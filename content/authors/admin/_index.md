@@ -41,7 +41,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: https://luoqian@gatech.edu #'/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: linkdin
+- icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/qian-luo-a17116192/
 - icon: cv
@@ -72,6 +72,6 @@ user_groups:
 - Visitors
 ---
 
-Hi! I’m a second-year Electrical and Computer Engineering master student at Georgia Institute of Technology. I'm advised by [Prof. Sehoon Ha](https://www.cc.gatech.edu/~sha9/), working on Embodied Visual Navigation based on Deep Reinforcemt Learning and Meta Learning. I'm also working closely with [Prof. Woon-Hong Yeo](https://www.me.gatech.edu/faculty/yeo), sloving biosphysical signal classification problem using machine learning strategies. Prior coming to Georgia Tech, I received my B.Eng from Huazhong University of Science and Technology in China, where I spent a great time working with [Prof. Hai-Tao Zhang](https://scholar.google.com/citations?user=y089Rj8AAAAJ&hl=en).
+Hi! I’m a second-year Electrical and Computer Engineering master student at Georgia Institute of Technology. I'm advised by [Prof. Sehoon Ha](https://www.cc.gatech.edu/~sha9/), working on Embodied Visual Navigation based on machine learning. I'm also working closely with [Prof. Woon-Hong Yeo](https://www.me.gatech.edu/faculty/yeo), sloving biosphysical signal classification problem using machine learning strategies. Prior coming to Georgia Tech, I received my B.Eng from Huazhong University of Science and Technology in China, where I spent a great time working with [Prof. Hai-Tao Zhang](https://scholar.google.com/citations?user=y089Rj8AAAAJ&hl=en).
 
 My research interest lies in Computer Vision, Deep Reinforcement Learning, and Meta Learning, focusing on the applications in robotics.
