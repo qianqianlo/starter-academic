@@ -29,7 +29,7 @@ experience:
   company_url: ""
   date_end: ""
   date_start: "2019-12-01"
-  description: 
+  description: Taught electronic engineering and researched semiconductor physics.
   location: Georgia Institute of Technology
   title: Graduate Research Assistant
 
