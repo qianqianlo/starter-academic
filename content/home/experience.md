@@ -25,12 +25,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   You can begin a multiline `description` using YAML's `|-`.
 experience:
-- company: GenCoin
+- company: GT Graphics Lab
   company_url: ""
   date_end: ""
-  date_start: "2017-01-01"
-  location: California
-  title: CEO
+  date_start: "2019-12-01"
+  location: Georgia Institute of Technology
+  title: Graduate Research Assistant
 - company: University X
   company_url: ""
   date_end: "2016-12-31"
