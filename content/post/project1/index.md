@@ -21,7 +21,7 @@ publication_types: ["0"]
 
 abstract: Applied Deep Deterministic Policy Gradient (DDPG) algorithm in the Gatech [Robotarium](https://www.robotarium.gatech.edu/) multi-robot simulation environment to enable the robots to achieve fixed locations while avoiding collision with other robots. Applied Multi-Agent Deep Deterministic Policy Gradient (MADDPG) in the OpenAI Multi-agent environment to perform formation control(making the robots form a given shape)
 # Summary. An optional shortened abstract.
-summary: Applied Deep Deterministic Policy Gradient (DDPG) algorithm in the Gatech [Robotarium](https://www.robotarium.gatech.edu/) multi-robot simulation environment, and Multi-Agent Deep Deterministic Policy Gradient (MADDPG) in OpenAI gym to achieve formation control
+summary: Applied Deep Deterministic Policy Gradient (DDPG) algorithm in the Gatech [Robotarium](https://www.robotarium.gatech.edu/) multi-robot simulation environment, and Multi-Agent Deep Deterministic Policy Gradient (MADDPG) in OpenAI gym to achieve formation control. [Video](https://www.youtube.com/watch?v=yBJB1kDeRkM&t=13s)
 
 # tags:
 # - Source Themes
