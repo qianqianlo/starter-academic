@@ -29,11 +29,6 @@ experience:
   company_url: ""
   date_end: ""
   date_start: "2017-01-01"
-  description: |-
-    Responsibilities include:
-    * Analysing
-    * Modelling
-    * Deploying
   location: California
   title: CEO
 - company: University X
