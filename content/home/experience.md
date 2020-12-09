@@ -18,12 +18,6 @@ subtitle:
 # date_format = "Jan 2006"
 date_format = Jan 2006
 
-# Experiences.
-#   Add/remove as many `[[experience]]` blocks below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
-
 experience:
 - company: University X
   company_url: ""
