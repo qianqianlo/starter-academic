@@ -1,4 +1,4 @@
-+++
+---
 # Experience widget.
 # widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 widget: experience
@@ -69,3 +69,4 @@ experience:
 #  location = "Huazhong University of Science and Technology"
 #  date_start = "2018-06-01"
 #  date_end = "2018-09-01"
+---
