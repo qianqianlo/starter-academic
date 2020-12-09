@@ -32,5 +32,4 @@ experience:
   description: Taught electronic engineering and researched semiconductor physics.
   location: Georgia Institute of Technology
   title: Professor
-
 ---
