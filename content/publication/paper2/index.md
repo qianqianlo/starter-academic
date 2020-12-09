@@ -27,7 +27,7 @@ publication_types: ["0"]
 
 abstract: Learning from demonstration (LfD) is a powerful learning method to enable a robot to infer how to perform a task given one or more human demonstrations of the desired task. By learning from end-user demonstration rather than requiring that a domain expert manually programming each skill, robots can more readily be applied to a wider range of real-world applications. Writing robots, as one application of LfD, has become a challenging research topic due to the complexity of human handwriting trajectories. In this paper, we introduce a generalized handwriting-learning system for a physical robot to learn from examples of humans' handwriting to draw alphanumeric characters. Our robotic system is able to rewrite letters imitating the way human demonstrators write and create new letters in a similar writing style. For this system, we develop an augmented dynamic movement primitive (DMP) algorithm, DMP*, which strengthens the robustness and generalization ability of our robotic system.
 # Summary. An optional shortened abstract.
-summary: We build up handwriting-learning system for a physical robot to learn from examples of humans’ handwritingto draw alphanumeric characters. Our robotic system is able to rewrite letters imitating the way human demonstrators writeand create new letters in a similar writing style.
+summary: We build up handwriting-learning system for a physical robot to learn from examples of humans’ handwriting to draw alphanumeric characters. Our robotic system is able to rewrite letters imitating the way human demonstrators writeand create new letters in a similar writing style.
 
 # tags:
 # - Source Themes
