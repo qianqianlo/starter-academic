@@ -1,12 +1,6 @@
 ---
-title: "A Generalized Robotic Handwriting Learning System based on Dynamic Movement Primitives (DMPs)"
-authors:
-- admin
-- Jing Wu
-- Matthew Gombolay
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+title: "Multi-robot Formation Control and Collision Avoidance using Deep Reinforcement Learning"
+
 # date: "2013-07-01T00:00:00Z"
 # date: ""
 doi: ""
@@ -25,17 +19,14 @@ publication_types: ["0"]
 # publication: In *Source Themes Conference*
 # publication_short: In *STC*
 
-abstract: Learning from demonstration (LfD) is a powerful learning method to enable a robot to infer how to perform a task given one or more human demonstrations of the desired task. By learning from end-user demonstration rather than requiring that a domain expert manually programming each skill, robots can more readily be applied to a wider range of real-world applications. Writing robots, as one application of LfD, has become a challenging research topic due to the complexity of human handwriting trajectories. In this paper, we introduce a generalized handwriting-learning system for a physical robot to learn from examples of humans' handwriting to draw alphanumeric characters. Our robotic system is able to rewrite letters imitating the way human demonstrators write and create new letters in a similar writing style. For this system, we develop an augmented dynamic movement primitive (DMP) algorithm, DMP*, which strengthens the robustness and generalization ability of our robotic system.
+abstract: Applied Deep Deterministic Policy Gradient (DDPG) algorithm in the Gatech [Robotarium](https://www.robotarium.gatech.edu/) multi-robot simulation environment to enable the robots to achieve fixed locations while avoiding collision with other robots. Applied Multi-Agent Deep Deterministic Policy Gradient (MADDPG) in the OpenAI Multi-agent environment to perform formation control(making the robots form a given shape)
 # Summary. An optional shortened abstract.
-summary: We build up handwriting-learning system for a physical robot to learn from examples of humans’ handwritingto draw alphanumeric characters. Our robotic system is able to rewrite letters imitating the way human demonstrators writeand create new letters in a similar writing style.
+summary: Applied Deep Deterministic Policy Gradient (DDPG) algorithm in the Gatech [Robotarium](https://www.robotarium.gatech.edu/) multi-robot simulation environment, and Multi-Agent Deep Deterministic Policy Gradient (MADDPG) in OpenAI gym to achieve formation control
 
 # tags:
 # - Source Themes
 featured: true
 
-links:
-- name: arXiv
-  url: https://arxiv.org/abs/2012.03898
 # url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 # url_code: '#'
 # url_dataset: '#'
@@ -43,7 +34,7 @@ links:
 # url_project: ''
 # url_slides: ''
 # url_source: '#'
-url_video: https://www.youtube.com/watch?v=BrnJvL7uRag
+url_video: https://www.youtube.com/watch?v=yBJB1kDeRkM&t=13s
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
