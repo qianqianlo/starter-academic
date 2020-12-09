@@ -24,13 +24,13 @@ date_format = "Jan 2006"
   location = "Georgia Institute of Technology"
   date_start = "2019-12-01"
   date_end = ""
-  # description = """
+  description = """
   # Responsibilities include:
   
   # * Analysing
   # * Modelling
   # * Deploying
-  # """
+  """
 
 [[experience]]
   title = "Graduate Research Assistant"
