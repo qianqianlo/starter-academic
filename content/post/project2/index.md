@@ -1,5 +1,5 @@
 ---
-title: "Multi-robot Formation Control and Collision Avoidance using Deep Reinforcement Learning"
+title: "Machine Learning Based Space Saving Strategy"
 
 # date: "2013-07-01T00:00:00Z"
 # date: ""
@@ -19,9 +19,8 @@ publication_types: ["0"]
 # publication: In *Source Themes Conference*
 # publication_short: In *STC*
 
-abstract: Applied Deep Deterministic Policy Gradient (DDPG) algorithm in the Gatech [Robotarium](https://www.robotarium.gatech.edu/) multi-robot simulation environment to enable the robots to achieve fixed locations while avoiding collision with other robots. Applied Multi-Agent Deep Deterministic Policy Gradient (MADDPG) in the OpenAI Multi-agent environment to perform formation control(making the robots form a given shape)
 # Summary. An optional shortened abstract.
-summary: Applied Deep Deterministic Policy Gradient (DDPG) algorithm in the Gatech [Robotarium](https://www.robotarium.gatech.edu/) multi-robot simulation environment, and Multi-Agent Deep Deterministic Policy Gradient (MADDPG) in OpenAI gym to achieve formation control. [**Video**](https://www.youtube.com/watch?v=yBJB1kDeRkM&t=13s)
+summary: We use Teris environment to simulate the Space Saving problem, where we have to fill out most of the room of a given space using randomly-created shape of blocks. In this project, we applied Deep Q-Learning to determine where the blocks should be placed. [**Video**](https://www.youtube.com/watch?v=HwMpeunFLy4)
 
 # tags:
 # - Source Themes
