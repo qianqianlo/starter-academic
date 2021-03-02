@@ -16,10 +16,12 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 # publication: In *Source Themes Conference*
+publication: In *IEEE International Conference on Robotics and Automation (ICRA), 2021
+*
 # publication_short: In *STC*
 
 abstract: Target-driven visual navigation is a challenging problem that requires a robot to find the goal using only visual inputs. Many researchers have demonstrated promising results using deep reinforcement learning (deep RL) on various robotic platforms, but typical end-to-end learning is known for its poor extrapolation capability to new scenarios. Therefore, learning a navigation policy for a new robot with a new sensor configuration or a new target still remains a challenging problem. In this paper, we introduce a learning algorithm that enables rapid adaptation to new sensor configurations or target objects with a few shots. We design a policy architecture with latent features between perception and inference networks and quickly adapt the perception network via meta-learning while freezing the inference network. Our experiments show that our algorithm adapts the learned navigation policy with only three shots for unseen situations with different sensor configurations or different target colors. We also analyze the proposed algorithm by investigating various hyperparameters. 
