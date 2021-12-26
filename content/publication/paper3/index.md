@@ -1,9 +1,10 @@
 ---
-title: "A Generalized Robotic Handwriting Learning System based on Dynamic Movement Primitives (DMPs)"
+title: "Learning Robust Agents for Visual Navigation in Dynamic Environments: The Winning Entry of iGibson Challenge 2021"
 authors:
+- Naoki Yokoyama
 - admin
-- Jing Wu
-- Matthew Gombolay
+- Dhruv Batra
+- Sehoon Ha
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
@@ -25,17 +26,16 @@ publication_types: ["0"]
 # publication: In *Source Themes Conference*
 # publication_short: In *STC*
 
-abstract: Learning from demonstration (LfD) is a powerful learning method to enable a robot to infer how to perform a task given one or more human demonstrations of the desired task. By learning from end-user demonstration rather than requiring that a domain expert manually programming each skill, robots can more readily be applied to a wider range of real-world applications. Writing robots, as one application of LfD, has become a challenging research topic due to the complexity of human handwriting trajectories. In this paper, we introduce a generalized handwriting-learning system for a physical robot to learn from examples of humans' handwriting to draw alphanumeric characters. Our robotic system is able to rewrite letters imitating the way human demonstrators write and create new letters in a similar writing style. For this system, we develop an augmented dynamic movement primitive (DMP) algorithm, DMP*, which strengthens the robustness and generalization ability of our robotic system.
+abstract: This paper presents an approach for improving navigation in dynamic and interactive environments, which won the 1st place in the iGibson Interactive Navigation Challenge 2021. While the last few years have produced impressive progress on PointGoal Navigation in static environments, relatively little effort has been made on more realistic dynamic environments. The iGibson Challenge proposed two new navigation tasks, Interactive Navigation and Social Navigation, which add displaceable obstacles and moving pedestrians into the simulator environment. Our approach to study these problems uses two key ideas. First, we employ large-scale reinforcement learning by leveraging the Habitat simulator, which supports high performance parallel computing for both simulation and synchronized learning. Second, we employ a new data augmentation technique that adds more dynamic objects into the environment, which can also be combined with traditional image-based augmentation techniques to boost the performance further. Lastly, we achieve sim-to-sim transfer from Habitat to the iGibson simulator, and demonstrate that our proposed methods allow us to train robust agents in dynamic environments with interactive objects or moving humans.
 # Summary. An optional shortened abstract.
-summary: We build up handwriting-learning system for a physical robot to learn from examples of humans’ handwriting to draw alphanumeric characters. Our robotic system is able to rewrite letters imitating the way human demonstrators writeand create new letters in a similar writing style.
-
+summary: We train robust agents to navigate in dynamic environments with interactive objects or moving humans, which won the 1st place in the iGibson Interactive Navigation Challenge 2021. 
 # tags:
 # - Source Themes
 featured: true
 
 links:
 - name: arXiv
-  url: https://arxiv.org/abs/2012.03898
+  url: https://arxiv.org/pdf/2109.10493.pdf
 # url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 # url_code: '#'
 # url_dataset: '#'
@@ -43,7 +43,7 @@ links:
 # url_project: ''
 # url_slides: ''
 # url_source: '#'
-url_video: https://www.youtube.com/watch?v=BrnJvL7uRag
+url_video: https://www.youtube.com/watch?v=HxUX2HeOSE4
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
