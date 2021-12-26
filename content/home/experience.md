@@ -28,33 +28,33 @@ experience:
 - company: Alibaba Group
   company_url: ""
   date_end: ""
-  date_start: "2021-10"
-  location: Georgia Institute of Technology
-  title: Graduate Research Assistant
+  date_start: "2021-10-1"
+  location: Hangzhou, China
+  title: NLP Algorithm Engineer
 - company: Computer Animation & Robotics Lab
   company_url: ""
-  date_end: "2021-08"
-  date_start: "2019-12"
+  date_end: "2021-08-1"
+  date_start: "2019-12-1"
   location: Georgia Institute of Technology
   title: Graduate Research Assistant
 - company: Bio-Interfaced Translational Nanoengineering Group
   company_url: ""
-  date_end: "2021-08"
-  date_start: "2020-10"
+  date_end: "2021-08-1"
+  date_start: "2020-10-1"
   description: 
   location: Georgia Institute of Technology
   title: Graduate Research Assistant
 - company: Intelligent Manufacturing and Data Science Laboratory
   company_url: ""
-  date_end: "2019-06"
-  date_start: "2017-10"
+  date_end: "2019-06-1"
+  date_start: "2017-10-1"
   description: 
   location: Huazhong University of Science and Technology
   title: Underaduate Research Assistant
 - company: MicroMultiCopter Aero Technology Co.,Ltd.
   company_url: ""
-  date_end: "2018-09"
-  date_start: "2018-06"
+  date_end: "2018-09-1"
+  date_start: "2018-06-1"
   description: 
   location: 
   title: Research Intern
