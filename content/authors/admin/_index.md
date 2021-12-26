@@ -74,7 +74,4 @@ user_groups:
 
 Hi! I’m a NLP algorithm engineer at Alibaba Artificial Intelligence Governance Laboratory ([AAIG](https://s.alibaba.com/aaig)), Alibaba Group, advised by [Dr. Longtao Huang](https://scholar.google.com/citations?user=EQDfV9cAAAAJ&hl=zh-CN). Prior joining Alibaba, I received my M.S. Degree from Georgia Institute of Technology, where I was advised by [Prof. Sehoon Ha](https://www.cc.gatech.edu/~sha9/). I also worked closely with [Prof. Dhruv Batra](https://www.cc.gatech.edu/~dbatra/) and [Prof. Woon-Hong Yeo](https://www.me.gatech.edu/faculty/yeo).
 
-# working on Embodied Visual Navigation based on machine learning. I'm also working closely with [Prof. Woon-Hong Yeo](https://www.me.gatech.edu/faculty/yeo), solving biosphysical signal classification problem using machine learning strategies. 
-# Prior coming to Georgia Tech, I received my B.Eng from Huazhong University of Science and Technology in China, where I spent a great time working with [Prof. Hai-Tao Zhang]#(https://scholar.google.com/citations?user=y089Rj8AAAAJ&hl=en).
-
 My research interest lies in developing generalized, trustworthy machine learning algorithms via Meta/Transfer Learning, Adversarial Learning approaches, and their applications in NLP, CV and robotics.
