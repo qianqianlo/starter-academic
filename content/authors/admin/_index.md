@@ -6,11 +6,11 @@ title: Qian Luo
 superuser: true
 
 # Role/position
-role: Graduate Student
+role: NLP Algorithm Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Georgia Institute of Technology
+- name: Alibaba Group
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -47,9 +47,9 @@ social:
 - icon: cv
   icon_pack: ai
   link: media/cv.pdf
-# - icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=O1_289IAAAAJ&hl=en
 # - icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
