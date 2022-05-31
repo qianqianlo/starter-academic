@@ -72,6 +72,7 @@ user_groups:
 - Visitors
 ---
 
-Hi! I’m an NLP algorithm engineer at Alibaba Artificial Intelligence Governance Laboratory ([AAIG](https://s.alibaba.com/aaig)), Alibaba Group, advised by [Dr. Longtao Huang](https://scholar.google.com/citations?user=EQDfV9cAAAAJ&hl=zh-CN). Prior joining Alibaba, I received my M.S. Degree from Georgia Institute of Technology, where I was advised by [Prof. Sehoon Ha](https://www.cc.gatech.edu/~sha9/). I also worked closely with [Prof. Dhruv Batra](https://www.cc.gatech.edu/~dbatra/) and [Prof. Woon-Hong Yeo](https://www.me.gatech.edu/faculty/yeo).
+Hi! I’m a NLP algorithm engineer at Alibaba Artificial Intelligence Governance Laboratory ([AAIG](https://s.alibaba.com/aaig)), Alibaba Group, advised by [Dr. Longtao Huang](https://scholar.google.com/citations?user=EQDfV9cAAAAJ&hl=zh-CN). Prior joining Alibaba, I received my M.S. Degree from Georgia Institute of Technology, where I was advised by [Prof. Sehoon Ha](https://www.cc.gatech.edu/~sha9/). I also worked closely with [Prof. Dhruv Batra](https://www.cc.gatech.edu/~dbatra/) and [Prof. Woon-Hong Yeo](https://www.me.gatech.edu/faculty/yeo).
 
-My research interest lies in developing generalized, trustworthy machine learning algorithms via Meta/Transfer Learning, Adversarial Learning approaches, and their applications in NLP, CV and robotics.
+# My research interest lies in developing generalized, trustworthy machine learning algorithms via Meta/Transfer Learning, Adversarial Learning approaches, and their applications in NLP, CV and robotics.
+My research interest lies in Deep Reinforcement Learning, Meta Learning, and their applications in CV, NLP and Robotics.
