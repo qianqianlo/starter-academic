@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Qiannn Luo
+title: Qian Luo
 
 # Is this the primary user of the site?
 superuser: true
